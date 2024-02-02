@@ -1,0 +1,16 @@
+{
+    "epoch": 10.0,
+    "eval_bleu-4": 99.8034821,
+    "eval_rouge-1": 99.91911759999999,
+    "eval_rouge-2": 99.86476199999998,
+    "eval_rouge-l": 99.91911759999999,
+    "eval_runtime": 112.074,
+    "eval_samples": 1000,
+    "eval_samples_per_second": 8.923,
+    "eval_steps_per_second": 0.892,
+    "train_loss": 0.014357261816660563,
+    "train_runtime": 9557.2394,
+    "train_samples": 3000,
+    "train_samples_per_second": 3.139,
+    "train_steps_per_second": 0.314
+}
